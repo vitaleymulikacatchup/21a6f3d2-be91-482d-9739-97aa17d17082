@@ -54,6 +54,7 @@ export default function LandingPage() {
             { text: "Explore Trips", href: "packages" },
             { text: "Learn More", href: "about" }
           ]}
+          backgroundColor="#ffff00"
         />
       </div>
       
