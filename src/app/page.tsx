@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
 import HeroBillboard from '@/components/sections/hero/HeroBillboard';
@@ -29,7 +29,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleCentered
-          brandName="GoodTravell"
+          brandName="Conquer Mountain Peaks"
           navItems={[
             { name: "Experiences", id: "features" },
             { name: "Packages", id: "packages" },
@@ -148,7 +148,7 @@ export default function LandingPage() {
           tagIcon={Heart}
           title="We transform ordinary people into mountain adventurers"
           description="Founded by passionate mountaineers and guides"
-          subdescription="GoodTravell - Mountain Adventures Since 2015"
+          subdescription="Conquer Mountain Peaks - Mountain Adventures Since 2015"
           icon={Mountain}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142486407-yl46uegn.jpg"
           imageAlt="Mountain landscape"
@@ -220,7 +220,7 @@ export default function LandingPage() {
               id: "2",
               name: "Michael Chen",
               handle: "@mike_climbs",
-              testimonial: "I'm a seasoned climber and was impressed by the professionalism and attention to detail. GoodTravell sets the standard for mountain expeditions.",
+              testimonial: "I'm a seasoned climber and was impressed by the professionalism and attention to detail. Conquer Mountain Peaks sets the standard for mountain expeditions.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142497874-jzh1w74y.jpg",
               imageAlt: "Michael Chen"
             },
@@ -252,7 +252,7 @@ export default function LandingPage() {
               id: "6",
               name: "Thomas Brown",
               handle: "@tom_explorer",
-              testimonial: "Small group sizes, personal attention, and expert guidance. GoodTravell understands what makes a truly exceptional mountain experience.",
+              testimonial: "Small group sizes, personal attention, and expert guidance. Conquer Mountain Peaks understands what makes a truly exceptional mountain experience.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142497874-jzh1w74y.jpg",
               imageAlt: "Thomas Brown"
             }
@@ -373,8 +373,8 @@ export default function LandingPage() {
       
       <div id="footer" data-section="footer">
         <FooterBaseCard
-          logoText="GoodTravell"
-          copyrightText="© 2025 GoodTravell Mountain Adventures. All rights reserved."
+          logoText="Conquer Mountain Peaks"
+          copyrightText="© 2025 Conquer Mountain Peaks Mountain Adventures. All rights reserved."
           columns={[
             {
               title: "Expeditions",

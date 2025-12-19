@@ -10,7 +10,7 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GoodTravell - Mountain Adventures & Guided Expeditions",
+  title: "Conquer Mountain Peaks - Mountain Adventures & Guided Expeditions",
   description: "Join 40-50 monthly mountain expeditions. Expert-guided hiking, climbing, and summit adventures for all levels. Book your unforgettable journey today.",
   keywords: "mountain expeditions, guided hiking, climbing tours, adventure travel, mountain climbing, summit expeditions",
   metadataBase: new URL("https://goodtravell.com"),
@@ -18,14 +18,14 @@ export const metadata: Metadata = {
     canonical: "https://goodtravell.com"
   },
   openGraph: {
-    title: "GoodTravell - Mountain Adventures",
+    title: "Conquer Mountain Peaks - Mountain Adventures",
     description: "Experience transformative mountain expeditions with expert guides. 40-50 curated trips monthly.",
-    siteName: "GoodTravell",
+    siteName: "Conquer Mountain Peaks",
     type: "website"
   },
   twitter: {
     card: "summary_large_image",
-    title: "GoodTravell - Mountain Adventures",
+    title: "Conquer Mountain Peaks - Mountain Adventures",
     description: "Conquer mountain peaks with expert-guided expeditions"
   },
   robots: {
