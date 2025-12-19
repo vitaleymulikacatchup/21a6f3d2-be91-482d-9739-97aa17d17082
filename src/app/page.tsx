@@ -278,7 +278,7 @@ export default function LandingPage() {
               role: "Lead Mountain Guide",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142503596-bqy3cta6.jpg",
               imageAlt: "Marcus Alpine",
-              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com" }]
+              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com", ariaLabel: "LinkedIn" }]
             },
             {
               id: "2",
@@ -286,7 +286,7 @@ export default function LandingPage() {
               role: "Summit Coach",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142504881-zc79raxd.jpg",
               imageAlt: "Sofia Peaks",
-              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com" }]
+              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com", ariaLabel: "LinkedIn" }]
             },
             {
               id: "3",
@@ -294,7 +294,7 @@ export default function LandingPage() {
               role: "Expedition Leader",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142506235-qyjwwius.jpg",
               imageAlt: "James Everest",
-              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com" }]
+              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com", ariaLabel: "LinkedIn" }]
             },
             {
               id: "4",
@@ -302,7 +302,7 @@ export default function LandingPage() {
               role: "Safety Coordinator",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1766142507498-j24026ws.jpg",
               imageAlt: "Elena Ridge",
-              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com" }]
+              socialLinks: [{ icon: Linkedin, href: "https://linkedin.com", ariaLabel: "LinkedIn" }]
             }
           ]}
         />
